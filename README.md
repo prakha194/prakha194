@@ -25,11 +25,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Openlibrary4u&theme=dark&hide_border=false" alt="OpenLibrary4U — serverless digital library" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/prakha194/buy-me-a-coffee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=buy-me-a-coffee&theme=dark&hide_border=false" alt="Buy Me a Coffee — supporter page" />
-  </a>
   <a href="https://github.com/prakha194/NGL_Message_Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=NGL_Message_Bot&theme=dark&hide_border=false" alt="NGL Message Bot" />
   </a>
