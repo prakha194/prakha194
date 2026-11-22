@@ -22,10 +22,24 @@
 [![](https://visitcount.itsvg.in/api?id=prakha194&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://prakha194.github.io/buy-me-a-coffee/) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://prakha194.github.io/buy-me-a-coffee/)
 
-<iframe src="https://github.com/sponsors/prakha194/button" title="Sponsor prakha194" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<p>
+  <a href="https://prakha194.github.io/buy-me-a-coffee/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  </a>
+  <a href="https://github.com/sponsors/prakha194">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+<p>
+  <a href="https://prakha194.github.io/buy-me-a-coffee/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  </a>
+  <a href="https://github.com/sponsors/prakha194">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
