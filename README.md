@@ -23,32 +23,13 @@
 
   ## 💰 You can help me by Donating
 
-<table>
-  <tr>
-    <td>
-      <a href="https://prakha194.github.io/buy-me-a-coffee/">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sponsors/prakha194">
-        <img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://prakha194.github.io/buy-me-a-coffee/">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sponsors/prakha194">
-        <img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/sponsors/prakha194">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+<br>
+<a href="https://prakha194.github.io/buy-me-a-coffee/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+</a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
