@@ -19,14 +19,13 @@
 
 <p align="center">
   <a href="https://github.com/prakha194/Spoon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Spoon&theme=dark&hide_border=false" alt="Spoon — Android music player" />
+    <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Spoon&theme=dark&hide_border=true" alt="Spoon — Android music player" />
   </a>
   <a href="https://github.com/prakha194/Openlibrary4u">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Openlibrary4u&theme=dark&hide_border=false" alt="OpenLibrary4U — serverless digital library" />
+    <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Openlibrary4u&theme=dark&hide_border=true" alt="OpenLibrary4U — serverless digital library" />
   </a>
-</p>
   <a href="https://github.com/prakha194/NGL_Message_Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=NGL_Message_Bot&theme=dark&hide_border=false" alt="NGL Message Bot" />
+    <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=NGL_Message_Bot&theme=dark&hide_border=true" alt="NGL Message Bot" />
   </a>
 </p>
 
