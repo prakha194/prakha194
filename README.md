@@ -23,13 +23,17 @@
 
   ## 💰 You can help me by Donating
 
+<div align="center">
+
 <a href="https://github.com/sponsors/prakha194">
-  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" height="70" />
 </a>
-<br>
+
 <a href="https://prakha194.github.io/buy-me-a-coffee/">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="70" />
 </a>
+
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
