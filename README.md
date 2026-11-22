@@ -24,6 +24,8 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://prakha194.github.io/buy-me-a-coffee/) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://prakha194.github.io/buy-me-a-coffee/)
+
+<iframe src="https://github.com/sponsors/prakha194/button" title="Sponsor prakha194" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
