@@ -18,8 +18,8 @@
 ### 🔝 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/prakha194/Spoon">
-    <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Spoon&theme=dark&hide_border=true" alt="Spoon — Android music player" />
+  <a href="https://github.com/prakha194/Melzo">
+    <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Melzo&theme=dark&hide_border=true" alt="Melzo — Ad-free Spotify music player" />
   </a>
   <a href="https://github.com/prakha194/Openlibrary4u">
     <img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=prakha194&repo=Openlibrary4u&theme=dark&hide_border=true" alt="OpenLibrary4U — serverless digital library" />
