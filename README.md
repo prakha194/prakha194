@@ -2,6 +2,11 @@
 🔭 I like to research<br>🌱 I m still learning<br>📚 I m studing still<br>💬 Ask me About. 
 
 
+## 🎵 Melzo — my Android music app
+Ad-free Spotify client and music player, free and open source (GPL-3.0).
+
+[**Website**](https://prakha194.github.io/Melzo/) · [**Download APK**](https://github.com/prakha194/Melzo/releases/latest) · [**Source**](https://github.com/prakha194/Melzo) · [**YouTube Music extension**](https://prakha194.github.io/Melzo/extensions.html)
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgbruuhh@gmail.com) 
 
